@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ControleCobrancaADM.props" />
+</Project>
