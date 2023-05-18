@@ -16,8 +16,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\administrator\Documents\alesandro\Curso de ASP.NET Core\controle_cobrancas\ControleCobrancaADM\ControleCobrancaADM
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/administrator/Documents/alesandro/Curso de ASP.NET Core/controle_cobrancas/ControleCobrancaADM/ControleCobrancaADM/Views/Cliente/Deletar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZWxldGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/administrator/Documents/alesandro/Curso de ASP.NET Core/controle_cobrancas/ControleCobrancaADM/ControleCobrancaADM/Views/Cliente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/administrator/Documents/alesandro/Curso de ASP.NET Core/controle_cobrancas/ControleCobrancaADM/ControleCobrancaADM/Views/Cliente/Listar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxMaXN0YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/administrator/Documents/alesandro/Curso de ASP.NET Core/controle_cobrancas/ControleCobrancaADM/ControleCobrancaADM/Views/Cliente/Novo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxOb3ZvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/administrator/Documents/alesandro/Curso de ASP.NET Core/controle_cobrancas/ControleCobrancaADM/ControleCobrancaADM/Views/Home/Index.cshtml]
