@@ -9073,11 +9073,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\administrator\\Documents\\alesandro\\Curso de ASP.NET Core\\ControleCobrancaADM\\ControleCobrancaADM\\ControleCobrancaADM.csproj",
+      "projectUniqueName": "C:\\Users\\administrator\\Documents\\alesandro\\Curso de ASP.NET Core\\controle_cobrancas\\ControleCobrancaADM\\ControleCobrancaADM\\ControleCobrancaADM.csproj",
       "projectName": "ControleCobrancaADM",
-      "projectPath": "C:\\Users\\administrator\\Documents\\alesandro\\Curso de ASP.NET Core\\ControleCobrancaADM\\ControleCobrancaADM\\ControleCobrancaADM.csproj",
+      "projectPath": "C:\\Users\\administrator\\Documents\\alesandro\\Curso de ASP.NET Core\\controle_cobrancas\\ControleCobrancaADM\\ControleCobrancaADM\\ControleCobrancaADM.csproj",
       "packagesPath": "C:\\Users\\administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\administrator\\Documents\\alesandro\\Curso de ASP.NET Core\\ControleCobrancaADM\\ControleCobrancaADM\\obj\\",
+      "outputPath": "C:\\Users\\administrator\\Documents\\alesandro\\Curso de ASP.NET Core\\controle_cobrancas\\ControleCobrancaADM\\ControleCobrancaADM\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

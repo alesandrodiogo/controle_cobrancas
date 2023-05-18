@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nB+pRgEnoxTaLbOpyiDP5N54AObQy1tEecK25rCB/ttJsRgdH5ere8gvyMuWJRMFMaFUCwpp5cfYKEyAG9jiRw==",
+  "dgSpecHash": "32BxFyxDcQc3fbhjZjTmukokzD2FXpayHYaxv38kUjRnwxwIUOSgwRTQ2xzPzzJ3OlCobGeJOlnmD8wMQtCsxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\administrator\\Documents\\alesandro\\Curso de ASP.NET Core\\ControleCobrancaADM\\ControleCobrancaADM\\ControleCobrancaADM.csproj",
+  "projectFilePath": "C:\\Users\\administrator\\Documents\\alesandro\\Curso de ASP.NET Core\\controle_cobrancas\\ControleCobrancaADM\\ControleCobrancaADM\\ControleCobrancaADM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\administrator\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\administrator\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.11\\microsoft.aspnetcore.razor.language.6.0.11.nupkg.sha512",
